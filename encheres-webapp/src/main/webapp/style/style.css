@@ -1,0 +1,60 @@
+.main_title, nav, h1{
+    color: #00B0D9;
+}
+.link{
+    color: #00B0D9;
+}
+.logo-error img{
+    animation: rotateLogo 3s ease infinite;
+}
+.profil{
+    margin-top: 150px;
+}
+.dc{
+    margin-top: 100px;
+}
+.profil_update{
+    margin-top: 50px;
+}
+@keyframes rotateLogo {
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
+.btn-primary{
+    background-color: #00B0D9;
+
+}
+.items > a {
+    text-decoration: underline  #00B0D9;
+    color: black;
+
+}
+.items > a:hover {
+    text-decoration: underline  #00B0D9;
+    color: #00B0D9;
+
+}
+a.btn-primary {
+    background-color: white;
+    color: dimgrey;
+    border: none;
+    text-decoration: underline  #00B0D9;
+
+}
+
+
+ btn-primary:hover{
+    background-color: white;
+    color: dimgrey;
+
+}
+
+
+
+
+
+
